@@ -1,0 +1,11 @@
+{
+    "name": "mocha-requirejs-node-unit-test",
+    "author": "zack.shen",
+    "version": "0.0.1",
+    "description": "Mocha tests with Require.js and Node.js.",
+    "dependencies": {
+        "requirejs":"2.0.6",
+        "mocha":"1.8.2",
+        "assert":"0.4.9"
+    }
+}
